@@ -88,5 +88,5 @@ Watch the logs as it spins up workers and tears through the catalogue!
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
-*Author: [Your Name]*
+*Author: Teshome Birhanu Cheru*
 *Built for the purpose of demonstrating advanced web scraping techniques.*
