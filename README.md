@@ -5,7 +5,7 @@
 ![Asyncio](https://img.shields.io/badge/Asyncio-Concurrency-green?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
-![Project Cover](assets/cover_image.png)
+![Project Cover](assets/cover.png)
 
 ## 🚀 Overview
 
